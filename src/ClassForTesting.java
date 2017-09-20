@@ -6,7 +6,7 @@ public class ClassForTesting {
 		int number = 1;
 		
 		System.out.println(str + number);
-		System.out.println("second commit");
+		System.out.println("third commit");
 	}
 
 }
